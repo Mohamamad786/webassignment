@@ -8,13 +8,13 @@
 }
 #login-form
 {
- margin-top:70px;
+ margin-top:100px;
 }
 table
 {
- border:solid #dcdcdc 1px;
+ border:solid #dcdcdc 5px;
  padding:25px;
- box-shadow: 0px 0px 1px rgba(0,0,0,0.2);
+ box-shadow: 3px 0px 1px rgba(0,0,0,0.2);
 }
 table tr,td
 {

@@ -26,8 +26,7 @@ if(isset($_POST['btn-login']))
  
 }
 ?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+        
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Mohammad's Kingdom - Login & Registration System</title>
@@ -48,7 +47,7 @@ if(isset($_POST['btn-login']))
 <td><button type="submit" name="btn-login">Sign In</button></td>
 </tr>
 <tr>
-<td><a href="register.php">Sign Up Here</a></td>
+<td><a href="register.php">Please Sign Up Here</a></td>
 </tr>
 </table>
 </form>
