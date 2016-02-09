@@ -18,8 +18,8 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Database: `dbtest`
 --
-CREATE DATABASE `dbtest` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
-USE `dbtest`;
+CREATE DATABASE `localhost` DEFAULT CHARACTER SET latin1 COLLATE latin1_swedish_ci;
+USE `localhost`;
 
 -- --------------------------------------------------------
 
